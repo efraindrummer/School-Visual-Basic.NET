@@ -1,0 +1,200 @@
+F:\DesarrolloSistemaEscuela\DesarrolloSistemaEscuela\bin\Debug\DesarrolloSistemaEscuela.exe.config
+F:\DesarrolloSistemaEscuela\DesarrolloSistemaEscuela\bin\Debug\DesarrolloSistemaEscuela.exe
+F:\DesarrolloSistemaEscuela\DesarrolloSistemaEscuela\bin\Debug\DesarrolloSistemaEscuela.pdb
+F:\DesarrolloSistemaEscuela\DesarrolloSistemaEscuela\bin\Debug\DesarrolloSistemaEscuela.xml
+F:\DesarrolloSistemaEscuela\DesarrolloSistemaEscuela\bin\Debug\MySql.Data.dll
+F:\DesarrolloSistemaEscuela\DesarrolloSistemaEscuela\bin\Debug\Google.Protobuf.dll
+F:\DesarrolloSistemaEscuela\DesarrolloSistemaEscuela\bin\Debug\BouncyCastle.Crypto.dll
+F:\DesarrolloSistemaEscuela\DesarrolloSistemaEscuela\bin\Debug\Ubiety.Dns.Core.dll
+F:\DesarrolloSistemaEscuela\DesarrolloSistemaEscuela\bin\Debug\Renci.SshNet.dll
+F:\DesarrolloSistemaEscuela\DesarrolloSistemaEscuela\bin\Debug\MySql.Data.xml
+F:\DesarrolloSistemaEscuela\DesarrolloSistemaEscuela\obj\Debug\DesarrolloSistemaEscuela.vbprojAssemblyReference.cache
+F:\DesarrolloSistemaEscuela\DesarrolloSistemaEscuela\obj\Debug\DesarrolloSistemaEscuela.FrmLogin.resources
+F:\DesarrolloSistemaEscuela\DesarrolloSistemaEscuela\obj\Debug\DesarrolloSistemaEscuela.FrmPrincipal.resources
+F:\DesarrolloSistemaEscuela\DesarrolloSistemaEscuela\obj\Debug\DesarrolloSistemaEscuela.Resources.resources
+F:\DesarrolloSistemaEscuela\DesarrolloSistemaEscuela\obj\Debug\DesarrolloSistemaEscuela.vbproj.GenerateResource.cache
+F:\DesarrolloSistemaEscuela\DesarrolloSistemaEscuela\obj\Debug\DesarrolloSistemaEscuela.vbproj.CoreCompileInputs.cache
+F:\DesarrolloSistemaEscuela\DesarrolloSistemaEscuela\obj\Debug\DesarrolloSistemaEscuela.vbproj.CopyComplete
+F:\DesarrolloSistemaEscuela\DesarrolloSistemaEscuela\obj\Debug\DesarrolloSistemaEscuela.exe
+F:\DesarrolloSistemaEscuela\DesarrolloSistemaEscuela\obj\Debug\DesarrolloSistemaEscuela.xml
+F:\DesarrolloSistemaEscuela\DesarrolloSistemaEscuela\obj\Debug\DesarrolloSistemaEscuela.pdb
+F:\DesarrolloSistemaEscuela\DesarrolloSistemaEscuela\obj\Debug\DesarrolloSistemaEscuela.FrmEscuelaAlta.resources
+F:\DesarrolloSistemaEscuela\DesarrolloSistemaEscuela\obj\Debug\DesarrolloSistemaEscuela.FrmProfesor.resources
+F:\DesarrolloSistemaEscuela\DesarrolloSistemaEscuela\obj\Debug\DesarrolloSistemaEscuela.FrmSalon.resources
+F:\DesarrolloSistemaEscuela\DesarrolloSistemaEscuela\obj\Debug\DesarrolloSistemaEscuela.FrmMateria.resources
+F:\DesarrolloSistemaEscuela\DesarrolloSistemaEscuela\obj\Debug\DesarrolloSistemaEscuela.FrmGrupo.resources
+F:\DesarrolloSistemaEscuela\DesarrolloSistemaEscuela\obj\Debug\DesarrolloSistemaEscuela.FrmCurso.resources
+F:\DesarrolloSistemaEscuela\DesarrolloSistemaEscuela\obj\Debug\DesarrolloSistemaEscuela.FrmAlumno.resources
+F:\DesarrolloSistemaEscuela\DesarrolloSistemaEscuela\obj\Debug\DesarrolloSistemaEscuela.FrmCalificaciones.resources
+F:\DesarrolloSistemaEscuela\DesarrolloSistemaEscuela\obj\Debug\DesarrolloSistemaEscuela.FrmBuscarSalon.resources
+F:\DesarrolloSistemaEscuela\DesarrolloSistemaEscuela\obj\Debug\DesarrolloSistemaEscuela.FrmConsulta1.resources
+F:\DesarrolloSistemaEscuela\DesarrolloSistemaEscuela\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+F:\DesarrolloSistemaEscuela\DesarrolloSistemaEscuela\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+F:\DesarrolloSistemaEscuela\DesarrolloSistemaEscuela\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+F:\DesarrolloSistemaEscuela\DesarrolloSistemaEscuela\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+F:\DesarrolloSistemaEscuela\DesarrolloSistemaEscuela\bin\Debug\Microsoft.ReportViewer.Common.dll
+F:\DesarrolloSistemaEscuela\DesarrolloSistemaEscuela\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+F:\DesarrolloSistemaEscuela\DesarrolloSistemaEscuela\bin\Debug\Microsoft.ReportViewer.Design.dll
+F:\DesarrolloSistemaEscuela\DesarrolloSistemaEscuela\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+F:\DesarrolloSistemaEscuela\DesarrolloSistemaEscuela\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+F:\DesarrolloSistemaEscuela\DesarrolloSistemaEscuela\bin\Debug\Microsoft.SqlServer.Types.dll
+F:\DesarrolloSistemaEscuela\DesarrolloSistemaEscuela\bin\Debug\EnvDTE.dll
+F:\DesarrolloSistemaEscuela\DesarrolloSistemaEscuela\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+F:\DesarrolloSistemaEscuela\DesarrolloSistemaEscuela\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+F:\DesarrolloSistemaEscuela\DesarrolloSistemaEscuela\bin\Debug\stdole.dll
+F:\DesarrolloSistemaEscuela\DesarrolloSistemaEscuela\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+F:\DesarrolloSistemaEscuela\DesarrolloSistemaEscuela\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+F:\DesarrolloSistemaEscuela\DesarrolloSistemaEscuela\bin\Debug\Microsoft.VisualStudio.VSHelp.dll
+F:\DesarrolloSistemaEscuela\DesarrolloSistemaEscuela\bin\Debug\Microsoft.VisualStudio.Shell.Interop.9.0.dll
+F:\DesarrolloSistemaEscuela\DesarrolloSistemaEscuela\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+F:\DesarrolloSistemaEscuela\DesarrolloSistemaEscuela\bin\Debug\Microsoft.VisualStudio.ProjectAggregator.dll
+F:\DesarrolloSistemaEscuela\DesarrolloSistemaEscuela\bin\Debug\Microsoft.VisualStudio.ComponentModelHost.dll
+F:\DesarrolloSistemaEscuela\DesarrolloSistemaEscuela\bin\Debug\Microsoft.VisualStudio.TemplateWizardInterface.dll
+F:\DesarrolloSistemaEscuela\DesarrolloSistemaEscuela\bin\Debug\Microsoft.VisualStudio.Debugger.InteropA.dll
+F:\DesarrolloSistemaEscuela\DesarrolloSistemaEscuela\bin\Debug\EnvDTE80.dll
+F:\DesarrolloSistemaEscuela\DesarrolloSistemaEscuela\bin\Debug\Microsoft.Build.Tasks.Core.dll
+F:\DesarrolloSistemaEscuela\DesarrolloSistemaEscuela\bin\Debug\Microsoft.VisualStudio.Data.Services.dll
+F:\DesarrolloSistemaEscuela\DesarrolloSistemaEscuela\bin\Debug\VSLangProj.dll
+F:\DesarrolloSistemaEscuela\DesarrolloSistemaEscuela\bin\Debug\Microsoft.VisualStudio.Shell.Interop.11.0.dll
+F:\DesarrolloSistemaEscuela\DesarrolloSistemaEscuela\bin\Debug\Microsoft.VisualStudio.Data.Core.dll
+F:\DesarrolloSistemaEscuela\DesarrolloSistemaEscuela\bin\Debug\Microsoft.VisualStudio.Shell.Interop.10.0.dll
+F:\DesarrolloSistemaEscuela\DesarrolloSistemaEscuela\bin\Debug\VSLangProj80.dll
+F:\DesarrolloSistemaEscuela\DesarrolloSistemaEscuela\bin\Debug\Microsoft.VisualStudio.ManagedInterfaces.dll
+F:\DesarrolloSistemaEscuela\DesarrolloSistemaEscuela\bin\Debug\Microsoft.VisualStudio.Debugger.Interop.11.0.dll
+F:\DesarrolloSistemaEscuela\DesarrolloSistemaEscuela\bin\Debug\Microsoft.VisualStudio.GraphModel.dll
+F:\DesarrolloSistemaEscuela\DesarrolloSistemaEscuela\bin\Debug\Microsoft.MSXML.dll
+F:\DesarrolloSistemaEscuela\DesarrolloSistemaEscuela\bin\Debug\Microsoft.Build.Utilities.Core.dll
+F:\DesarrolloSistemaEscuela\DesarrolloSistemaEscuela\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.10.0.dll
+F:\DesarrolloSistemaEscuela\DesarrolloSistemaEscuela\bin\Debug\Microsoft.Build.Framework.dll
+F:\DesarrolloSistemaEscuela\DesarrolloSistemaEscuela\bin\Debug\VSLangProj2.dll
+F:\DesarrolloSistemaEscuela\DesarrolloSistemaEscuela\bin\Debug\Microsoft.VisualStudio.TemplateWizardInterface.xml
+F:\DesarrolloSistemaEscuela\DesarrolloSistemaEscuela\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+F:\DesarrolloSistemaEscuela\DesarrolloSistemaEscuela\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+F:\DesarrolloSistemaEscuela\DesarrolloSistemaEscuela\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+F:\DesarrolloSistemaEscuela\DesarrolloSistemaEscuela\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+F:\DesarrolloSistemaEscuela\DesarrolloSistemaEscuela\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+F:\DesarrolloSistemaEscuela\DesarrolloSistemaEscuela\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+F:\DesarrolloSistemaEscuela\DesarrolloSistemaEscuela\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+F:\DesarrolloSistemaEscuela\DesarrolloSistemaEscuela\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+F:\DesarrolloSistemaEscuela\DesarrolloSistemaEscuela\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+F:\DesarrolloSistemaEscuela\DesarrolloSistemaEscuela\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+F:\DesarrolloSistemaEscuela\DesarrolloSistemaEscuela\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+F:\DesarrolloSistemaEscuela\DesarrolloSistemaEscuela\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+F:\DesarrolloSistemaEscuela\DesarrolloSistemaEscuela\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+F:\DesarrolloSistemaEscuela\DesarrolloSistemaEscuela\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+F:\DesarrolloSistemaEscuela\DesarrolloSistemaEscuela\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+F:\DesarrolloSistemaEscuela\DesarrolloSistemaEscuela\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+F:\DesarrolloSistemaEscuela\DesarrolloSistemaEscuela\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+F:\DesarrolloSistemaEscuela\DesarrolloSistemaEscuela\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+F:\DesarrolloSistemaEscuela\DesarrolloSistemaEscuela\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+F:\DesarrolloSistemaEscuela\DesarrolloSistemaEscuela\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+F:\DesarrolloSistemaEscuela\DesarrolloSistemaEscuela\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+F:\DesarrolloSistemaEscuela\DesarrolloSistemaEscuela\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+F:\DesarrolloSistemaEscuela\DesarrolloSistemaEscuela\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+F:\DesarrolloSistemaEscuela\DesarrolloSistemaEscuela\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+F:\DesarrolloSistemaEscuela\DesarrolloSistemaEscuela\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+F:\DesarrolloSistemaEscuela\DesarrolloSistemaEscuela\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+F:\DesarrolloSistemaEscuela\DesarrolloSistemaEscuela\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+F:\DesarrolloSistemaEscuela\DesarrolloSistemaEscuela\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+F:\DesarrolloSistemaEscuela\DesarrolloSistemaEscuela\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+F:\DesarrolloSistemaEscuela\DesarrolloSistemaEscuela\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+F:\DesarrolloSistemaEscuela\DesarrolloSistemaEscuela\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+F:\DesarrolloSistemaEscuela\DesarrolloSistemaEscuela\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+F:\DesarrolloSistemaEscuela\DesarrolloSistemaEscuela\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+F:\DesarrolloSistemaEscuela\DesarrolloSistemaEscuela\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+F:\DesarrolloSistemaEscuela\DesarrolloSistemaEscuela\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+F:\DesarrolloSistemaEscuela\DesarrolloSistemaEscuela\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+F:\DesarrolloSistemaEscuela\DesarrolloSistemaEscuela\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+F:\DesarrolloSistemaEscuela\DesarrolloSistemaEscuela\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+F:\DesarrolloSistemaEscuela\DesarrolloSistemaEscuela\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+F:\DesarrolloSistemaEscuela\DesarrolloSistemaEscuela\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+F:\DesarrolloSistemaEscuela\DesarrolloSistemaEscuela\bin\Debug\es\Microsoft.VisualStudio.Data.Services.resources.dll
+F:\DesarrolloSistemaEscuela\DesarrolloSistemaEscuela\bin\Debug\es\Microsoft.VisualStudio.Data.Core.resources.dll
+F:\DesarrolloSistemaEscuela\DesarrolloSistemaEscuela\obj\Debug\DesarrolloSistemaEscuela.exe.config
+C:\Users\efrai\Documents\Desarrollo con Visual Basic.NET\DesarrolloSistemaEscuela\DesarrolloSistemaEscuela\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\efrai\Documents\Desarrollo con Visual Basic.NET\DesarrolloSistemaEscuela\DesarrolloSistemaEscuela\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\efrai\Documents\Desarrollo con Visual Basic.NET\DesarrolloSistemaEscuela\DesarrolloSistemaEscuela\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\efrai\Documents\Desarrollo con Visual Basic.NET\DesarrolloSistemaEscuela\DesarrolloSistemaEscuela\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\efrai\Documents\Desarrollo con Visual Basic.NET\DesarrolloSistemaEscuela\DesarrolloSistemaEscuela\bin\Debug\DesarrolloSistemaEscuela.exe.config
+C:\Users\efrai\Documents\Desarrollo con Visual Basic.NET\DesarrolloSistemaEscuela\DesarrolloSistemaEscuela\bin\Debug\DesarrolloSistemaEscuela.exe
+C:\Users\efrai\Documents\Desarrollo con Visual Basic.NET\DesarrolloSistemaEscuela\DesarrolloSistemaEscuela\bin\Debug\DesarrolloSistemaEscuela.pdb
+C:\Users\efrai\Documents\Desarrollo con Visual Basic.NET\DesarrolloSistemaEscuela\DesarrolloSistemaEscuela\bin\Debug\DesarrolloSistemaEscuela.xml
+C:\Users\efrai\Documents\Desarrollo con Visual Basic.NET\DesarrolloSistemaEscuela\DesarrolloSistemaEscuela\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\efrai\Documents\Desarrollo con Visual Basic.NET\DesarrolloSistemaEscuela\DesarrolloSistemaEscuela\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\efrai\Documents\Desarrollo con Visual Basic.NET\DesarrolloSistemaEscuela\DesarrolloSistemaEscuela\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\efrai\Documents\Desarrollo con Visual Basic.NET\DesarrolloSistemaEscuela\DesarrolloSistemaEscuela\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\efrai\Documents\Desarrollo con Visual Basic.NET\DesarrolloSistemaEscuela\DesarrolloSistemaEscuela\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\efrai\Documents\Desarrollo con Visual Basic.NET\DesarrolloSistemaEscuela\DesarrolloSistemaEscuela\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\efrai\Documents\Desarrollo con Visual Basic.NET\DesarrolloSistemaEscuela\DesarrolloSistemaEscuela\bin\Debug\EnvDTE.dll
+C:\Users\efrai\Documents\Desarrollo con Visual Basic.NET\DesarrolloSistemaEscuela\DesarrolloSistemaEscuela\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\efrai\Documents\Desarrollo con Visual Basic.NET\DesarrolloSistemaEscuela\DesarrolloSistemaEscuela\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\efrai\Documents\Desarrollo con Visual Basic.NET\DesarrolloSistemaEscuela\DesarrolloSistemaEscuela\bin\Debug\Google.Protobuf.dll
+C:\Users\efrai\Documents\Desarrollo con Visual Basic.NET\DesarrolloSistemaEscuela\DesarrolloSistemaEscuela\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\efrai\Documents\Desarrollo con Visual Basic.NET\DesarrolloSistemaEscuela\DesarrolloSistemaEscuela\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\efrai\Documents\Desarrollo con Visual Basic.NET\DesarrolloSistemaEscuela\DesarrolloSistemaEscuela\bin\Debug\Renci.SshNet.dll
+C:\Users\efrai\Documents\Desarrollo con Visual Basic.NET\DesarrolloSistemaEscuela\DesarrolloSistemaEscuela\bin\Debug\stdole.dll
+C:\Users\efrai\Documents\Desarrollo con Visual Basic.NET\DesarrolloSistemaEscuela\DesarrolloSistemaEscuela\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\efrai\Documents\Desarrollo con Visual Basic.NET\DesarrolloSistemaEscuela\DesarrolloSistemaEscuela\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\efrai\Documents\Desarrollo con Visual Basic.NET\DesarrolloSistemaEscuela\DesarrolloSistemaEscuela\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\efrai\Documents\Desarrollo con Visual Basic.NET\DesarrolloSistemaEscuela\DesarrolloSistemaEscuela\bin\Debug\Microsoft.MSXML.dll
+C:\Users\efrai\Documents\Desarrollo con Visual Basic.NET\DesarrolloSistemaEscuela\DesarrolloSistemaEscuela\bin\Debug\MySql.Data.xml
+C:\Users\efrai\Documents\Desarrollo con Visual Basic.NET\DesarrolloSistemaEscuela\DesarrolloSistemaEscuela\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\efrai\Documents\Desarrollo con Visual Basic.NET\DesarrolloSistemaEscuela\DesarrolloSistemaEscuela\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\efrai\Documents\Desarrollo con Visual Basic.NET\DesarrolloSistemaEscuela\DesarrolloSistemaEscuela\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\efrai\Documents\Desarrollo con Visual Basic.NET\DesarrolloSistemaEscuela\DesarrolloSistemaEscuela\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\efrai\Documents\Desarrollo con Visual Basic.NET\DesarrolloSistemaEscuela\DesarrolloSistemaEscuela\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\efrai\Documents\Desarrollo con Visual Basic.NET\DesarrolloSistemaEscuela\DesarrolloSistemaEscuela\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\efrai\Documents\Desarrollo con Visual Basic.NET\DesarrolloSistemaEscuela\DesarrolloSistemaEscuela\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\efrai\Documents\Desarrollo con Visual Basic.NET\DesarrolloSistemaEscuela\DesarrolloSistemaEscuela\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\efrai\Documents\Desarrollo con Visual Basic.NET\DesarrolloSistemaEscuela\DesarrolloSistemaEscuela\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\efrai\Documents\Desarrollo con Visual Basic.NET\DesarrolloSistemaEscuela\DesarrolloSistemaEscuela\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\efrai\Documents\Desarrollo con Visual Basic.NET\DesarrolloSistemaEscuela\DesarrolloSistemaEscuela\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\efrai\Documents\Desarrollo con Visual Basic.NET\DesarrolloSistemaEscuela\DesarrolloSistemaEscuela\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\efrai\Documents\Desarrollo con Visual Basic.NET\DesarrolloSistemaEscuela\DesarrolloSistemaEscuela\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\efrai\Documents\Desarrollo con Visual Basic.NET\DesarrolloSistemaEscuela\DesarrolloSistemaEscuela\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\efrai\Documents\Desarrollo con Visual Basic.NET\DesarrolloSistemaEscuela\DesarrolloSistemaEscuela\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\efrai\Documents\Desarrollo con Visual Basic.NET\DesarrolloSistemaEscuela\DesarrolloSistemaEscuela\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\efrai\Documents\Desarrollo con Visual Basic.NET\DesarrolloSistemaEscuela\DesarrolloSistemaEscuela\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\efrai\Documents\Desarrollo con Visual Basic.NET\DesarrolloSistemaEscuela\DesarrolloSistemaEscuela\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\efrai\Documents\Desarrollo con Visual Basic.NET\DesarrolloSistemaEscuela\DesarrolloSistemaEscuela\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\efrai\Documents\Desarrollo con Visual Basic.NET\DesarrolloSistemaEscuela\DesarrolloSistemaEscuela\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\efrai\Documents\Desarrollo con Visual Basic.NET\DesarrolloSistemaEscuela\DesarrolloSistemaEscuela\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\efrai\Documents\Desarrollo con Visual Basic.NET\DesarrolloSistemaEscuela\DesarrolloSistemaEscuela\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\efrai\Documents\Desarrollo con Visual Basic.NET\DesarrolloSistemaEscuela\DesarrolloSistemaEscuela\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\efrai\Documents\Desarrollo con Visual Basic.NET\DesarrolloSistemaEscuela\DesarrolloSistemaEscuela\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\efrai\Documents\Desarrollo con Visual Basic.NET\DesarrolloSistemaEscuela\DesarrolloSistemaEscuela\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\efrai\Documents\Desarrollo con Visual Basic.NET\DesarrolloSistemaEscuela\DesarrolloSistemaEscuela\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\efrai\Documents\Desarrollo con Visual Basic.NET\DesarrolloSistemaEscuela\DesarrolloSistemaEscuela\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\efrai\Documents\Desarrollo con Visual Basic.NET\DesarrolloSistemaEscuela\DesarrolloSistemaEscuela\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\efrai\Documents\Desarrollo con Visual Basic.NET\DesarrolloSistemaEscuela\DesarrolloSistemaEscuela\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\efrai\Documents\Desarrollo con Visual Basic.NET\DesarrolloSistemaEscuela\DesarrolloSistemaEscuela\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\efrai\Documents\Desarrollo con Visual Basic.NET\DesarrolloSistemaEscuela\DesarrolloSistemaEscuela\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\efrai\Documents\Desarrollo con Visual Basic.NET\DesarrolloSistemaEscuela\DesarrolloSistemaEscuela\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\efrai\Documents\Desarrollo con Visual Basic.NET\DesarrolloSistemaEscuela\DesarrolloSistemaEscuela\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\efrai\Documents\Desarrollo con Visual Basic.NET\DesarrolloSistemaEscuela\DesarrolloSistemaEscuela\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\efrai\Documents\Desarrollo con Visual Basic.NET\DesarrolloSistemaEscuela\DesarrolloSistemaEscuela\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\efrai\Documents\Desarrollo con Visual Basic.NET\DesarrolloSistemaEscuela\DesarrolloSistemaEscuela\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\efrai\Documents\Desarrollo con Visual Basic.NET\DesarrolloSistemaEscuela\DesarrolloSistemaEscuela\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\efrai\Documents\Desarrollo con Visual Basic.NET\DesarrolloSistemaEscuela\DesarrolloSistemaEscuela\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\efrai\Documents\Desarrollo con Visual Basic.NET\DesarrolloSistemaEscuela\DesarrolloSistemaEscuela\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\efrai\Documents\Desarrollo con Visual Basic.NET\DesarrolloSistemaEscuela\DesarrolloSistemaEscuela\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\efrai\Documents\Desarrollo con Visual Basic.NET\DesarrolloSistemaEscuela\DesarrolloSistemaEscuela\obj\Debug\DesarrolloSistemaEscuela.vbprojAssemblyReference.cache
+C:\Users\efrai\Documents\Desarrollo con Visual Basic.NET\DesarrolloSistemaEscuela\DesarrolloSistemaEscuela\obj\Debug\DesarrolloSistemaEscuela.FrmLogin.resources
+C:\Users\efrai\Documents\Desarrollo con Visual Basic.NET\DesarrolloSistemaEscuela\DesarrolloSistemaEscuela\obj\Debug\DesarrolloSistemaEscuela.FrmAlumno.resources
+C:\Users\efrai\Documents\Desarrollo con Visual Basic.NET\DesarrolloSistemaEscuela\DesarrolloSistemaEscuela\obj\Debug\DesarrolloSistemaEscuela.FrmBuscarSalon.resources
+C:\Users\efrai\Documents\Desarrollo con Visual Basic.NET\DesarrolloSistemaEscuela\DesarrolloSistemaEscuela\obj\Debug\DesarrolloSistemaEscuela.FrmCalificaciones.resources
+C:\Users\efrai\Documents\Desarrollo con Visual Basic.NET\DesarrolloSistemaEscuela\DesarrolloSistemaEscuela\obj\Debug\DesarrolloSistemaEscuela.FrmConsulta1.resources
+C:\Users\efrai\Documents\Desarrollo con Visual Basic.NET\DesarrolloSistemaEscuela\DesarrolloSistemaEscuela\obj\Debug\DesarrolloSistemaEscuela.FrmCurso.resources
+C:\Users\efrai\Documents\Desarrollo con Visual Basic.NET\DesarrolloSistemaEscuela\DesarrolloSistemaEscuela\obj\Debug\DesarrolloSistemaEscuela.FrmEscuelaAlta.resources
+C:\Users\efrai\Documents\Desarrollo con Visual Basic.NET\DesarrolloSistemaEscuela\DesarrolloSistemaEscuela\obj\Debug\DesarrolloSistemaEscuela.FrmGrupo.resources
+C:\Users\efrai\Documents\Desarrollo con Visual Basic.NET\DesarrolloSistemaEscuela\DesarrolloSistemaEscuela\obj\Debug\DesarrolloSistemaEscuela.FrmMateria.resources
+C:\Users\efrai\Documents\Desarrollo con Visual Basic.NET\DesarrolloSistemaEscuela\DesarrolloSistemaEscuela\obj\Debug\DesarrolloSistemaEscuela.FrmPrincipal.resources
+C:\Users\efrai\Documents\Desarrollo con Visual Basic.NET\DesarrolloSistemaEscuela\DesarrolloSistemaEscuela\obj\Debug\DesarrolloSistemaEscuela.FrmProfesor.resources
+C:\Users\efrai\Documents\Desarrollo con Visual Basic.NET\DesarrolloSistemaEscuela\DesarrolloSistemaEscuela\obj\Debug\DesarrolloSistemaEscuela.FrmSalon.resources
+C:\Users\efrai\Documents\Desarrollo con Visual Basic.NET\DesarrolloSistemaEscuela\DesarrolloSistemaEscuela\obj\Debug\DesarrolloSistemaEscuela.Resources.resources
+C:\Users\efrai\Documents\Desarrollo con Visual Basic.NET\DesarrolloSistemaEscuela\DesarrolloSistemaEscuela\obj\Debug\DesarrolloSistemaEscuela.vbproj.GenerateResource.cache
+C:\Users\efrai\Documents\Desarrollo con Visual Basic.NET\DesarrolloSistemaEscuela\DesarrolloSistemaEscuela\obj\Debug\DesarrolloSistemaEscuela.vbproj.CoreCompileInputs.cache
+C:\Users\efrai\Documents\Desarrollo con Visual Basic.NET\DesarrolloSistemaEscuela\DesarrolloSistemaEscuela\obj\Debug\DesarrolloSistemaEscuela.vbproj.CopyComplete
+C:\Users\efrai\Documents\Desarrollo con Visual Basic.NET\DesarrolloSistemaEscuela\DesarrolloSistemaEscuela\obj\Debug\DesarrolloSistemaEscuela.exe
+C:\Users\efrai\Documents\Desarrollo con Visual Basic.NET\DesarrolloSistemaEscuela\DesarrolloSistemaEscuela\obj\Debug\DesarrolloSistemaEscuela.xml
+C:\Users\efrai\Documents\Desarrollo con Visual Basic.NET\DesarrolloSistemaEscuela\DesarrolloSistemaEscuela\obj\Debug\DesarrolloSistemaEscuela.pdb

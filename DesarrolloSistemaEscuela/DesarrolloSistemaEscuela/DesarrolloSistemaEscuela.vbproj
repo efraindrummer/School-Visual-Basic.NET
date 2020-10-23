@@ -1,0 +1,267 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{CC7A212B-B6D3-4F63-9D23-7D3A6FA7CB62}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <StartupObject>DesarrolloSistemaEscuela.My.MyApplication</StartupObject>
+    <RootNamespace>DesarrolloSistemaEscuela</RootNamespace>
+    <AssemblyName>DesarrolloSistemaEscuela</AssemblyName>
+    <FileAlignment>512</FileAlignment>
+    <MyType>WindowsForms</MyType>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <DefineDebug>true</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DocumentationFile>DesarrolloSistemaEscuela.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <DefineDebug>false</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DocumentationFile>DesarrolloSistemaEscuela.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionExplicit>On</OptionExplicit>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionCompare>Binary</OptionCompare>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionStrict>Off</OptionStrict>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionInfer>On</OptionInfer>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Microsoft.ReportViewer.Common, Version=15.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.ReportingServices.ReportViewerControl.Winforms.150.1404.0\lib\net40\Microsoft.ReportViewer.Common.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.ReportViewer.DataVisualization, Version=15.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.ReportingServices.ReportViewerControl.Winforms.150.1404.0\lib\net40\Microsoft.ReportViewer.DataVisualization.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.ReportViewer.Design, Version=15.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.ReportingServices.ReportViewerControl.Winforms.150.1404.0\lib\net40\Microsoft.ReportViewer.Design.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.ReportViewer.ProcessingObjectModel, Version=15.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.ReportingServices.ReportViewerControl.Winforms.150.1404.0\lib\net40\Microsoft.ReportViewer.ProcessingObjectModel.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.ReportViewer.WinForms, Version=15.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.ReportingServices.ReportViewerControl.Winforms.150.1404.0\lib\net40\Microsoft.ReportViewer.WinForms.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.SqlServer.Types, Version=14.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.SqlServer.Types.14.0.314.76\lib\net40\Microsoft.SqlServer.Types.dll</HintPath>
+    </Reference>
+    <Reference Include="MySql.Data, Version=8.0.19.0, Culture=neutral, PublicKeyToken=c5687fc88969c44d, processorArchitecture=MSIL" />
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="System.Net.Http" />
+  </ItemGroup>
+  <ItemGroup>
+    <Import Include="Microsoft.VisualBasic" />
+    <Import Include="System" />
+    <Import Include="System.Collections" />
+    <Import Include="System.Collections.Generic" />
+    <Import Include="System.Data" />
+    <Import Include="System.Drawing" />
+    <Import Include="System.Diagnostics" />
+    <Import Include="System.Windows.Forms" />
+    <Import Include="System.Linq" />
+    <Import Include="System.Xml.Linq" />
+    <Import Include="System.Threading.Tasks" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="ClsAlumno.vb" />
+    <Compile Include="ClsCalificaciones.vb" />
+    <Compile Include="ClsCurso.vb" />
+    <Compile Include="ClsEscuela.vb" />
+    <Compile Include="ClsGrupo.vb" />
+    <Compile Include="ClsMateria.vb" />
+    <Compile Include="ClsProfesor.vb" />
+    <Compile Include="ClsSalon.vb" />
+    <Compile Include="Conexion.vb" />
+    <Compile Include="Form1.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form1.Designer.vb">
+      <DependentUpon>Form1.vb</DependentUpon>
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmAlumno.Designer.vb">
+      <DependentUpon>FrmAlumno.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FrmAlumno.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmBuscarEscuela.Designer.vb">
+      <DependentUpon>FrmBuscarEscuela.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FrmBuscarEscuela.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmCalificaciones.Designer.vb">
+      <DependentUpon>FrmCalificaciones.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FrmCalificaciones.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmConsulta1.Designer.vb">
+      <DependentUpon>FrmConsulta1.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FrmConsulta1.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmCurso.Designer.vb">
+      <DependentUpon>FrmCurso.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FrmCurso.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmEscuelaAlta.Designer.vb">
+      <DependentUpon>FrmEscuelaAlta.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FrmEscuelaAlta.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmGrupo.Designer.vb">
+      <DependentUpon>FrmGrupo.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FrmGrupo.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmMateria.Designer.vb">
+      <DependentUpon>FrmMateria.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FrmMateria.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmPrincipal.Designer.vb">
+      <DependentUpon>FrmPrincipal.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FrmPrincipal.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmProfesor.Designer.vb">
+      <DependentUpon>FrmProfesor.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FrmProfesor.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmSalon.Designer.vb">
+      <DependentUpon>FrmSalon.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FrmSalon.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="My Project\AssemblyInfo.vb" />
+    <Compile Include="My Project\Application.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Application.myapp</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Resources.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Settings.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="Form1.resx">
+      <DependentUpon>Form1.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmAlumno.resx">
+      <DependentUpon>FrmAlumno.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmBuscarEscuela.resx">
+      <DependentUpon>FrmBuscarEscuela.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmCalificaciones.resx">
+      <DependentUpon>FrmCalificaciones.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmConsulta1.resx">
+      <DependentUpon>FrmConsulta1.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmCurso.resx">
+      <DependentUpon>FrmCurso.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmEscuelaAlta.resx">
+      <DependentUpon>FrmEscuelaAlta.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmGrupo.resx">
+      <DependentUpon>FrmGrupo.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmMateria.resx">
+      <DependentUpon>FrmMateria.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmPrincipal.resx">
+      <DependentUpon>FrmPrincipal.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmProfesor.resx">
+      <DependentUpon>FrmProfesor.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmSalon.resx">
+      <DependentUpon>FrmSalon.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="My Project\Resources.resx">
+      <Generator>VbMyResourcesResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.vb</LastGenOutput>
+      <CustomToolNamespace>My.Resources</CustomToolNamespace>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="My Project\Application.myapp">
+      <Generator>MyApplicationCodeGenerator</Generator>
+      <LastGenOutput>Application.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="My Project\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <CustomToolNamespace>My</CustomToolNamespace>
+      <LastGenOutput>Settings.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="App.config" />
+    <None Include="packages.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="SqlServerTypes\Loader.cs" />
+    <Content Include="SqlServerTypes\readme.htm" />
+    <Content Include="SqlServerTypes\x64\msvcr120.dll">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="SqlServerTypes\x64\SqlServerSpatial140.dll">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="SqlServerTypes\x86\msvcr120.dll">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="SqlServerTypes\x86\SqlServerSpatial140.dll">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.VisualBasic.targets" />
+</Project>
